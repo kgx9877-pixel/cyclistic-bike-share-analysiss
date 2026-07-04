@@ -24,3 +24,8 @@ How can Cyclistic convert casual riders into annual members?
 - Offer weekend discounts
 - Promote membership plans
 - Target casual riders with ads
+-## Sample Visualization
+
+![Graph](https://github.com/kgx9877-pixel/cyclistic-bike-share-analysis/blob/main/image.png)
+- 
+
